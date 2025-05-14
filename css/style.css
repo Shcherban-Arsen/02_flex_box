@@ -12,7 +12,7 @@ h2{ text-align: center;
 font-weight: bold;
 image_container { text-align: center;
 }
-image img {
+.image  {
 width: 50px;
 height: auto;
 }
